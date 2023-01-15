@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # test-json-apis
 
 Testing library that returns error permutations of JSONs to be sent to the API
